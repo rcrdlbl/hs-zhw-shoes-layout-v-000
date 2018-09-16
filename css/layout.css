@@ -34,5 +34,6 @@
 .shadow {
   display: inline-block;
   margin: 15px;
+  padding: 5px;
   width: 30%;
 }
